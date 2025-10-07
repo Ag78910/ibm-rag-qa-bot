@@ -47,7 +47,7 @@ The architecture combines:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/ibm-rag-qa-bot.git
+   git clone https://github.com/Ag78910/ibm-rag-qa-bot.git
    cd ibm-rag-qa-bot
    ```
 
